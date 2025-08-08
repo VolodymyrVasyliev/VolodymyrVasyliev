@@ -4,22 +4,29 @@
 <head>
     <meta charset="UTF-8" />
     <title>Penguin Jump Game</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <style>
+        * {
+            box-sizing: border-box;
+        }
+
         body {
             margin: 0;
             background-color: #d3e9d4;
             overflow: hidden;
             font-family: sans-serif;
+            touch-action: manipulation;
         }
 
         .game {
-            width: 50%;
+            width: 90%;
+            max-width: 500px;
             height: 300px;
             background-color: #676a7b;
             border-bottom: 4px solid #ccc;
             position: relative;
             overflow: hidden;
-            margin: 0 auto;
+            margin: 30px auto;
             border-radius: 12px;
         }
 
@@ -73,10 +80,10 @@
 
         .game-over {
             position: absolute;
-            top: 40%;
+            top: 35%;
             width: 100%;
             text-align: center;
-            font-size: 32px;
+            font-size: 28px;
             color: red;
             user-select: none;
         }
@@ -87,7 +94,7 @@
             left: 50%;
             transform: translateX(-50%);
             padding: 12px 24px;
-            font-size: 18px;
+            font-size: 16px;
             background-color: #ff5757;
             color: white;
             border: none;
@@ -110,15 +117,49 @@
             color: #fff;
             user-select: none;
         }
+
+        @media (max-width: 500px) {
+            .game {
+                height: 220px;
+            }
+
+            .dino {
+                width: 40px;
+                height: 40px;
+                left: 30px;
+            }
+
+            .obstacle.small {
+                width: 25px;
+                height: 25px;
+            }
+
+            .obstacle.large {
+                width: 40px;
+                height: 40px;
+            }
+
+            .game-over {
+                font-size: 22px;
+            }
+
+            .restart-btn {
+                font-size: 14px;
+                padding: 10px 20px;
+            }
+
+            .score {
+                font-size: 16px;
+            }
+        }
     </style>
 </head>
 
 <body>
-
     <div class="game" id="game">
         <div class="dino" id="dino"></div>
         <div class="game-over" id="gameOver" style="display: none;">Game Over</div>
-        <button class="restart-btn" id="restartBtn" style="display: none;"> Try again!</button>
+        <button class="restart-btn" id="restartBtn" style="display: none;">Try again!</button>
         <div class="score" id="score">Score: 0</div>
     </div>
 
@@ -131,18 +172,26 @@
 
         let score = 0;
         let gameRunning = true;
-        let speed = 2500; // начальная скорость создания препятствий
+        let speed = 2500;
         let obstacleInterval;
         let scoreInterval;
 
-        document.addEventListener("keydown", function (event) {
-            if ((event.code === "Space" || event.code === "ArrowUp") && !dino.classList.contains("jump") && gameRunning) {
+        function jump() {
+            if (!dino.classList.contains("jump") && gameRunning) {
                 dino.classList.add("jump");
                 setTimeout(() => dino.classList.remove("jump"), 400);
             }
+        }
+
+        document.addEventListener("keydown", function (event) {
+            if (event.code === "Space" || event.code === "ArrowUp") {
+                jump();
+            }
         });
 
-        // Обновление счёта и ускорение
+        game.addEventListener("click", jump);
+        game.addEventListener("touchstart", jump);
+
         scoreInterval = setInterval(() => {
             if (!gameRunning) return;
 
@@ -159,14 +208,9 @@
         function createObstacle() {
             const obstacle = document.createElement("div");
             obstacle.classList.add("obstacle");
-
-            // Выбираем случайный тип препятствия: small или large
             const type = Math.random() < 0.6 ? "small" : "large";
             obstacle.classList.add(type);
-
-            // Всегда ставим на землю
             obstacle.style.bottom = "0";
-
             game.appendChild(obstacle);
 
             let obstacleRight = -obstacle.offsetWidth;
@@ -207,7 +251,6 @@
         function startCreatingObstacles() {
             obstacleInterval = setInterval(() => {
                 if (gameRunning) {
-                    // Создаем сразу 1-3 препятствия с небольшой задержкой
                     const count = Math.floor(Math.random() * 3) + 1;
                     for (let i = 0; i < count; i++) {
                         setTimeout(() => {
@@ -224,7 +267,6 @@
             location.reload();
         });
     </script>
-
 </body>
 
 </html>
