@@ -2,10 +2,10 @@
 <h1 align="center">Hi, I'm Volodymyr Vasyliev 👋</h1>
 
 <p align="center">
-  In search of knowledge of technologies, I specialize as a front-end developer
+  In search of knowledge in technology and people, specializing as a front-end developer.
 </p>
 
----
+<hr/>
 
 ### 🛠️ Languages and Tools:
 
