@@ -17,6 +17,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" stroke="white"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" height="40" />
+  
 </p>
 
 
