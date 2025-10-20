@@ -6,7 +6,9 @@
 
 <br/>  
 
-<table><tr><td valign="top" width="50%">
+<table style="min-width:100%">
+<tr>
+<td valign="top" width="50%">
 
 
 
@@ -21,7 +23,8 @@
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="50%">
+</td>
+<td valign="top" width="50%">
 
 
 
