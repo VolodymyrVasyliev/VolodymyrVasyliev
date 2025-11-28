@@ -48,7 +48,7 @@
 
 <br/>  
 
-<div alige="center"><img src=https://github-readme-activity-graph.vercel.app/graph?username=VolodymyrVasyliev &bg_color=000000&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=false/></div>
+<div alige="center"><img src=https://github-readme-activity-graph.vercel.app/graph?username=VolodymyrVasyliev&theme=high-contrast/></div>
 
 
 ## Github Stats  
