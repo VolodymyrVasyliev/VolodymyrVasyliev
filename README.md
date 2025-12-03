@@ -53,5 +53,15 @@
 
 ## Github Stats  
 <br />
+
+
 [![VolodymyrVasyliev profile views](https://u8views.com/api/v1/github/profiles/147194640/views/day-week-month-total-count.svg)](https://u8views.com/github/VolodymyrVasyliev)
 <br />
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VolodymyrVasyliev&hide_border=true&layout=compact" align="center" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=VolodymyrVasyliev&&style=flat-square" align="center" />
+</div>  
