@@ -1,4 +1,4 @@
-# <div align="center">Hi, I'm Volodymyr 👋</div>  
+в# <div align="center">Hi, I'm Volodymyr 👋</div>  
   
 
 ## <div align="center">Front-end developer.👨‍💻</div>  
@@ -53,12 +53,6 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VolodymyrVasyliev&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=VolodymyrVasyliev&&style=flat-square" align="center" />
-</div>  
 
 <br />
 
