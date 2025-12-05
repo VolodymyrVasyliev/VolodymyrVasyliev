@@ -1,6 +1,6 @@
 ## <div align="center">Hi, I'm Volodymyr 👋, front-end developer 👨‍💻.</div>  
 
-## <p align="center">Hi, I'm Vladimir — a Frontend Developer moving toward Full-Stack.
+## <p align="center">I like things to look good, so I chose frontend, and I'm still developing my backend skills.
 I work with React, Next.js, TypeScript, and Node.js, focusing on clean UI and predictable logic.
 Actively learning backend, improving English, and building real projects to grow as a developer.
 Open to teamwork and collaboration..<p>  
