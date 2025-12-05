@@ -1,6 +1,6 @@
 ## <div align="center">Hi, I'm Volodymyr 👋, front-end developer 👨‍💻.</div>  
-
-<p align="center">I like things to look good, so I chose frontend, and I'm still developing my backend skills.
+###<p align ='left'>Junir front-end developer | React | Node.js
+<p align ='left'>I like things to look good, so I chose frontend, and I'm still developing my backend skills.
 I work with React, Next.js, TypeScript, and Node.js, focusing on clean UI and predictable logic.
 Actively learning backend, improving English, and building real projects to grow as a developer.
 Open to teamwork and collaboration..<p>  
