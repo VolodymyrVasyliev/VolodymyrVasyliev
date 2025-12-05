@@ -1,4 +1,4 @@
-## <div align="center">Hi, I'm Volodymyr 👋, front-end developer 👨‍💻.</div>  
+## <div align="center">Hi, I'm Volodymyr <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>.</div>  
 # <p align ='left'>Junir front-end developer | React | Node.js
 <p align ='left'>I like things to look good, so I chose frontend, and I'm still developing my backend skills.
 I work with React, Next.js, TypeScript, and Node.js, focusing on clean UI and predictable logic.
