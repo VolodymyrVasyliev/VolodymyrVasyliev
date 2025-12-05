@@ -1,11 +1,11 @@
-## <div align="center">Hi, I'm Volodymyr 👋</div>  
-  
+## <div align="center">Hi, I'm Volodymyr 👋, front-end developer 👨‍💻.</div>  
 
-## <div align="center">Front-end developer.👨‍💻</div>  
+## <p align="center">Hi, I'm Vladimir — a Frontend Developer moving toward Full-Stack.
+I work with React, Next.js, TypeScript, and Node.js, focusing on clean UI and predictable logic.
+Actively learning backend, improving English, and building real projects to grow as a developer.
+Open to teamwork and collaboration..<p>  
   
-
 <br/>  
-
 
 ## My Skill Set  
 
@@ -31,7 +31,6 @@
 
 <br/>  
 
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/VolodymyrVasyliev" target="_blank">
@@ -45,15 +44,10 @@
 </a>  
 </div>  
   
-
 <br/>  
-
-
-
 
 ## Github Stats  
 <br />
-
 
 [![VolodymyrVasyliev profile views](https://u8views.com/api/v1/github/profiles/147194640/views/day-week-month-total-count.svg)](https://u8views.com/github/VolodymyrVasyliev)
 <br />
