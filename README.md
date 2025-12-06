@@ -1,9 +1,18 @@
 ## <div align="center">Hi, I'm Volodymyr Vasyliev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>.</div>  
-# <p align ='left'>Junir front-end developer | React | Node.js
+
+ <details>
+  <summary>Junir front-end developer | React | Node.js</summary>
+  I like things to look good, so I chose frontend, and I'm still developing my backend skills.
+I work with React, Next.js, TypeScript, and Node.js, focusing on clean UI and predictable logic.
+Actively learning backend, improving English, and building real projects to grow as a developer.
+Open to teamwork and collaboration..
+</details>
+
+<!-- <p align ='left'>Junir front-end developer | React | Node.js
 <p align ='left'>I like things to look good, so I chose frontend, and I'm still developing my backend skills.
 I work with React, Next.js, TypeScript, and Node.js, focusing on clean UI and predictable logic.
 Actively learning backend, improving English, and building real projects to grow as a developer.
-Open to teamwork and collaboration..<p>  
+Open to teamwork and collaboration..<p>   -->
   
 <br/>  
 
