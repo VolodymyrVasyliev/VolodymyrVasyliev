@@ -1,6 +1,6 @@
 ## <div align="center">Hi, I'm Volodymyr Vasyliev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>.</div>  
 
- <details>
+# <details align="center">
   <summary>Junir front-end developer | React | Node.js</summary>
   I like things to look good, so I chose frontend, and I'm still developing my backend skills.
 I work with React, Next.js, TypeScript, and Node.js, focusing on clean UI and predictable logic.
