@@ -1,12 +1,11 @@
 ## <div align="center">Hi, I'm Volodymyr Vasyliev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>.</div>  
 
-<details align="center">
-<summary><strong>Junir front-end developer | React | Node.js </strong></summary>
-  I like things to look good, so I chose frontend, and I'm still developing my backend skills.
-I work with React, Next.js, TypeScript, and Node.js, focusing on clean UI and predictable logic.
-Actively learning backend, improving English, and building real projects to grow as a developer.
-Open to teamwork and collaboration..
-</details>
+
+## Junir front-end developer | React | Node.js
+💻 Focused on building web applications and UI/UX interfaces.
+🌱 Currently exploring Next.js App Router, SSR/CSR, API integrations, and TypeScript.
+💡 Interested in how technologies work and in writing clean, maintainable code.
+
 
 <!-- <p align ='left'>Junir front-end developer | React | Node.js
 <p align ='left'>I like things to look good, so I chose frontend, and I'm still developing my backend skills.
