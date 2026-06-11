@@ -1,7 +1,7 @@
 ## Hi, I'm Volodymyr Vasyliev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>.</div>  
 
 
-# Junir front-end developer | React | Node.js
+# Junior front-end developer | React | Node.js
 <br/>  
 💻 Focused on building web applications and UI/UX interfaces.
 <br/>  
