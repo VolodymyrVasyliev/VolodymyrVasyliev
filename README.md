@@ -2,13 +2,6 @@
 
 
 # Junior front-end developer | React | Node.js
-<br/>  
-💻 Focused on building web applications and UI/UX interfaces.
-<br/>  
-🌱 Currently exploring Next.js App Router, SSR/CSR, API integrations, and TypeScript.
-<br/>  
-💡 Interested in how technologies work and in writing clean, maintainable code.
-<br/>  
 
 ## My Skill Set  
 
