@@ -49,8 +49,8 @@
 <br />
 
 <!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VolodymyrVasyliev&hide_border=true&layout=compact" align="center" /></div>   -->
-<div alige="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=VolodymyrVasyliev&theme=high-contrast"/></div>
-<br/>  
+<!-- <div alige="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=VolodymyrVasyliev&theme=high-contrast"/></div>
+<br/>   -->
 
 <!-- <div align="center">
 <img src="https://komarev.com/ghpvc/?username=VolodymyrVasyliev&&style=flat-square" align="center" />
