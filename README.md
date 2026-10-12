@@ -1,7 +1,7 @@
 ## Hi, I'm Volodymyr <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>.</div>  
 
 
-#  front-end developer | React | Node.js
+#  Front-end developer | React | Node.js
 
 ### Frontend  
 <div align="left">  
