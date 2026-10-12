@@ -1,9 +1,7 @@
-## Hi, I'm Volodymyr Vasyliev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>.</div>  
+## Hi, I'm Volodymyr <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>.</div>  
 
 
-# Junior front-end developer | React | Node.js
-
-## My Skill Set  
+#  front-end developer | React | Node.js
 
 ### Frontend  
 <div align="left">  
